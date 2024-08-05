@@ -26,4 +26,5 @@ Findings:
 -We saw that the demand is gradually increasing from Monday to Saturday and Saturday has the highest demand. Interestingly, Sunday shows a level of demand similar to Wednesday, which is higher than Monday or Tuesday.
 
 -We also found that the number of trips have also been effected because of various events like Thanksgiving, Christmas, Memorial Day, and Independence Day.
+
 -We finally found that the total revenue of Uber in 1 year was 595 Million USD, growth in NYS as 84% and Gross Margin of 149 Million USD
